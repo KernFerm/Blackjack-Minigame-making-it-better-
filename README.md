@@ -8,7 +8,7 @@ My first ever python project dont bully me
 ***IF YOU GET THE FOLLOWING ERROR `python is not recognized as an internal or external command, operable program, or batch file` Watch This: https://youtu.be/E2HvWhhAW0g***
 
 ### Run
-If you have python and the packages you are good to go. Load up any game on your MAIN monitor and load into a game.
+If you have python and the packages you are good to go.
 
 1. (Windows Users) Open up either `PowerShell` or `Command Prompt`. This can be done by pressing the Windows Key and searching for one of those applications.
 
